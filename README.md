@@ -94,9 +94,8 @@ Contributions to the ELTS-Manual-Testing repository are welcome. To contribute:
 3. Commit your changes and push to your fork.
 4. Open a pull request to the main repository.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
 ## Contact
 For any questions or suggestions, feel free to reach out to the project maintainers at [contact@elts.com].
-Key Sections Explained:
+
